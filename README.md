@@ -40,3 +40,4 @@ This project was a collaborative effort by the following InternPulse Fellows:
 - Tosin Omoleye   
 - Favour C. Nnadozie  
 - Kazeem Bintu Adunni
+- Ubasom Josemaria Ibekwe-uche
